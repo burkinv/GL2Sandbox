@@ -1,0 +1,12 @@
+[submodule "External/glew"]
+	path = External/glew
+	url = ../../nigels-com/glew.git
+[submodule "External/glew-cmake"]
+	path = External/glew-cmake
+	url = ../../Perlmint/glew-cmake.git
+[submodule "External/libpng"]
+	path = External/libpng
+	url = ../../glennrp/libpng.git
+[submodule "External/zlib"]
+	path = External/zlib
+	url = ../../madler/zlib.git
