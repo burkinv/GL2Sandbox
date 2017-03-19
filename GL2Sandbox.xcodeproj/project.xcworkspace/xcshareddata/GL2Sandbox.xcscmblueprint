@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "55C16BDDF240306DB2DE5F20077B9E4934658BF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55C16BDDF240306DB2DE5F20077B9E4934658BF8" : 0,
+    "547A7CFBD5F0A850C99F405659B662B03DA54A62" : 0,
+    "8601E67F4FB64BCEBC94AD8912DA48EAE2F25B48" : 0,
+    "2EBE848159B7AC85D7B55B5ECB0F44325BA71C29" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D338851F-305A-4C06-9C19-93D7766EA458",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55C16BDDF240306DB2DE5F20077B9E4934658BF8" : "GL2Sandbox\/",
+    "547A7CFBD5F0A850C99F405659B662B03DA54A62" : "GL2Sandbox\/External\/libpng\/",
+    "8601E67F4FB64BCEBC94AD8912DA48EAE2F25B48" : "GL2Sandbox\/External\/zlib\/",
+    "2EBE848159B7AC85D7B55B5ECB0F44325BA71C29" : "GL2Sandbox\/External\/glew-cmake\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GL2Sandbox",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GL2Sandbox.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Perlmint\/glew-cmake.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2EBE848159B7AC85D7B55B5ECB0F44325BA71C29"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/glennrp\/libpng.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "547A7CFBD5F0A850C99F405659B662B03DA54A62"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/burkinv\/GL2Sandbox.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55C16BDDF240306DB2DE5F20077B9E4934658BF8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/madler\/zlib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8601E67F4FB64BCEBC94AD8912DA48EAE2F25B48"
+    }
+  ]
+}
